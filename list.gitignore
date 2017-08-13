@@ -1,0 +1,6 @@
+FREQUENCIA/bin
+FREQUENCIA/img
+*.user
+*.csproj
+*sln
+*.suo
