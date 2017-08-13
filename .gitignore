@@ -1,5 +1,6 @@
 FREQUENCIA/bin
 FREQUENCIA/img
+FREQUENCIA/obj
 *.user
 *.csproj
 *sln
